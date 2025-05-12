@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/email-signature-generator/static/js/main.b4e2761e.js",
+    "index.html": "/email-signature-generator/index.html",
+    "main.b4e2761e.js.map": "/email-signature-generator/static/js/main.b4e2761e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b4e2761e.js"
+  ]
+}
