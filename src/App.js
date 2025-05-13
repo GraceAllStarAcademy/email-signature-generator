@@ -18,7 +18,7 @@ function App() {
       <p style="margin: 0; font-size: 16px; font-weight: bold; color: #00468b;">${fullName}</p>
       <p style="margin: 0; font-size: 13px; color: #444;">${title}</p>
       <p style="margin: 8px 0 0 0; font-size: 13px; color: #444;">
-        • Grace All-Star Academy • Grace Christian School<br>
+        • Grace Christian School<br>
         • Afterschool • Summer Camp • Private Education<br>
         • 10760 Thornmint Rd • San Diego • CA 92127
       </p>
@@ -26,8 +26,7 @@ function App() {
         <strong style="color: #4287f5;">Phone:</strong> ${phone}<br>
         <strong style="color: #4287f5;">Email:</strong> <a href="mailto:${email}" style="color: #00468b;">${email}</a><br>
         <strong style="color: #4287f5;">Web:</strong> 
-        <a href="https://www.gracechristianschools.us/" style="color: #00468b;">Grace Christian School</a> • 
-        <a href="https://graceschool.ezjoin.events/" style="color: #00468b;">All-Star Academy</a>
+        <a href="https://www.gracechristianschools.us/" style="color: #00468b;">https://www.gracechristianschools.us/</a>
       </p>
     </td>
   </tr>
